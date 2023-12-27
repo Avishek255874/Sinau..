@@ -1,0 +1,161 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+  }
+
+  .navbar {
+    padding: 70px 70px 70px;
+    display: flex;
+    justify-content: space-between;
+ }
+
+  body {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .contant {
+    width: 400px;
+    color:#999;
+    display: flex;
+    justify-content: space-between;
+       cursor:pointer;
+    
+  }
+  .Under_line:hover{
+
+   border:none;
+   border-bottom: 2px solid rgb(255, 54, 134);
+  transition:  2ms ease-in-out;
+  border-top: 10px;
+  
+ 
+
+  }
+ 
+    
+
+
+  .left .back {
+    background-image: linear-gradient(to bottom right, rgb(243, 28, 135), white);
+    color: white;
+    border-radius: 20px;
+    border: none;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    /* width:50pxpx; */
+    /* height:25px; */
+    /* padding-right: 40px; */
+    cursor: pointer;
+
+  }
+
+  .box {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 50px;
+
+  }
+
+  .color {
+    color: rgb(243, 20, 131)
+  }
+
+  .box {
+    padding-top: 20px;
+
+  }
+
+  .back1 {
+    background-image: linear-gradient(to bottom right, rgb(248, 25, 136), white);
+    color: white;
+    border-radius: 20px;
+    border: hidden;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    cursor: pointer;
+
+  }
+
+  .hide {
+    color: #999;
+    padding:10px;
+  }
+
+  .box1 {
+    padding-left: 40px;
+  }
+
+  .box2 {
+    padding-right: 90px;
+
+  }
+
+  .parent {
+    padding-left: 108px;
+    padding-right: 163px;
+    display: flex;
+    justify-content: space-between;
+ }
+  .child{
+    width:370px;
+  }
+ .born {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 10px;
+  }
+
+  .baby {
+    padding: 20px
+  }
+
+  .born2 {
+    display: flex;
+    justify-content: space-between;
+    font-size: 10px;
+ font-size: 2
+  }
+
+  .image2{
+    display: flex;
+    justify-content: space-between;
+    padding-left:10px ;
+ }
+  .student{
+    padding-left: 239px;
+    
+  }
+  .whale{
+    padding-left:95px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .num1{
+    color:rgb(243, 20, 131);
+ }
+  .like{
+    padding-top:100px;
+    padding-right: 20px;
+    display:flex;
+    justify-content: space-around;
+    font-family:'Poppins' ;
+  }
+.contain2{
+    display:flex;
+    justify-content: space-around;
+    font-size: 8px ;
+    font-family: 'DM Serif Display', serif;
+    color: rgb(48, 45, 45);
+}
+
+.saying{
+  padding-right: 100px;
+  padding-left: 100px;
+}
